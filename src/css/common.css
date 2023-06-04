@@ -1,0 +1,9 @@
+img {
+  max-width: 300px;
+}
+select {
+  border-radius: 3px;
+}
+.cat-info {
+  max-width: 600px;
+}
